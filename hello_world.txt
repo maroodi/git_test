@@ -1,0 +1,5 @@
+Hello, My name is sayidcumar cabdulqadir cabdulqadir
+I am a student doing the odin project
+i am currently messing around with the command line 
+i am learning to use git and github
+currently, i am cloning a repository from my remote github account to my local virtual machine. 
