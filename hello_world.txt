@@ -1,4 +1,4 @@
-Hello, My name is sayidcumar cabdulqadir cabdulqadir
+Hello, My name is sayidcumar cabdulqadir 
 I am a student doing the odin project
 i am currently messing around with the command line 
 i am learning to use git and github
